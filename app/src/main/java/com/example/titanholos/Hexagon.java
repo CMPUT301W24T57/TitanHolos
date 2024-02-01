@@ -1,7 +1,6 @@
 package com.example.titanholos;
 
-public abstract class Shape {
+public class Hexagon extends Shape {
     private int x;
     private int y;
-    String color = "Brown";
 }
